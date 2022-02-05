@@ -1,5 +1,5 @@
 {
-  "name": "deshgo",
+  "name": "dashgo",
   "private": true,
   "scripts": {
     "dev": "next dev",
