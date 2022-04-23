@@ -1,7 +1,7 @@
 # DashGo
 
 ### Objetivo
-desenvolvido no treinamento Ignite da Rocketseat
+Desenvolvido no treinamento Ignite da Rocketseat
 
 ### Tecnologias
 * Next.js (React)
